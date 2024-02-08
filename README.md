@@ -1,6 +1,6 @@
-# Code repository for "Stabilizing Backpropagation Through Time to learn Learn Complex Physics" 
+# Code repository for "Stabilizing Backpropagation Through Time to Learn Complex Physics" 
 
-This repository contains the source code for the ICLR'24 paper on "Stabilizing Backpropagation Through Time to learn Learn Complex Physics" by [Patrick Schnell](https://ge.in.tum.de/about/patrick-schnell/) and [Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/) from the [Physics-based Simulation Group, Technical University of Munich](https://ge.in.tum.de/).
+This repository contains the source code for the ICLR'24 paper on "Stabilizing Backpropagation Through Time to Learn Complex Physics" by [Patrick Schnell](https://ge.in.tum.de/about/patrick-schnell/) and [Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/) from the [Physics-based Simulation Group, Technical University of Munich](https://ge.in.tum.de/).
 
 ## Abstract:
 
