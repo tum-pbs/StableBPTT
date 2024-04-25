@@ -1,4 +1,4 @@
-name: tf290
+name: StableBPTT
 channels:
   - defaults
 dependencies:
