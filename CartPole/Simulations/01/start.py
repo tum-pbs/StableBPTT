@@ -58,14 +58,14 @@ for i in p.keys():
 
 
 
-path = '/home/schnell/Projects/Python/servus05_BPTT_Paper/Data/'
-subpath = p['folder_name']+'/'+p['script_name']+'_'
+#path = '/home/schnell/Projects/Python/servus05_BPTT_Paper/Data/'
+path = 'Data/'+p['folder_name']+'/'+p['script_name']+'_'
 i = 0
 pi = str(i).zfill(4)
-while(os.path.exists(path+subpath+pi)):
+while(os.path.exists(path+pi)):
     i = i+1
     pi = str(i).zfill(4)
-sim_path = path+subpath+pi+'/'
+sim_path = path+pi+'/'
 results_path = sim_path+'results.txt'
 dict_path = sim_path+'params.txt'
 dict_np = sim_path+'params.npy'
