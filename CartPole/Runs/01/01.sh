@@ -26,7 +26,7 @@ opt=ADAM
 lr=0.001
 cnum=1.0
 bs=8
-ep=10
+ep=1000
 
 
 
