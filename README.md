@@ -4,7 +4,7 @@ This repository contains the source code for the ICLR'24 paper on "Stabilizing B
 
 [PDF at OpenReview](https://openreview.net/forum?id=bozbTTWcaw)
 
-![Cartpole Animation](resources/cartpole_animation.gif)
+![Adam with Rotation](resources/te_rot.png)
 
 
 
@@ -29,3 +29,4 @@ bash Runs/01/01.sh
 python Plots/01/plot.py
 ```
 
+![Cartpole Animation](resources/cartpole_animation.gif)
